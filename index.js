@@ -57,10 +57,3 @@ module.exports = {
     dayOfDecade,
     dayOfDecadeName
 };
-
-const now = new Date(1802, 10, 8);
-console.log('Today we are ' +
-    dayOfMonth(now) + ' ' + dayOfDecadeName(now) +
-    ' of ' + monthName(now) +
-    ' of the year ' + year(now) +
-    ', day dedicated to the "' + dayOfYearName(now) + '"');
