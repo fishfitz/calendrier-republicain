@@ -1,0 +1,24 @@
+{
+  "name": "calendrier-republicain",
+  "version": "0.0.1",
+  "description": "This is a converter from the commonly used Gregorian Calendar to the French Republican Calendar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "converter",
+    "date",
+    "calendar",
+    "calendrier",
+    "republican",
+    "republicain",
+    "revolutionary",
+    "révolutionnaire",
+    "french",
+    "français"
+  ],
+  "author": "Cobaltway",
+  "repository": "cobaltway/calendrier-republicain",
+  "license": "MIT"
+}
